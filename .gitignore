@@ -1,0 +1,5 @@
+node_modules
+dist
+.idea
+coverage
+src/assets/files/version.json
